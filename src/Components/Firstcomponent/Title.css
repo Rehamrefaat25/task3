@@ -1,0 +1,11 @@
+#title{
+    text-align: center;
+    color: white;
+    font-family:sans-serif;
+}
+#title label{
+    color:yellow;
+}
+#title img{
+    border-radius: 50%;
+}
